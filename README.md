@@ -96,7 +96,7 @@ Or use the included PowerShell build script:
   Welcome to the Railway Route Optimization System!
 
 ╔══════════════════════════════════════════╗
-║   RAILWAY ROUTE OPTIMIZATION SYSTEM     ║
+║   RAILWAY ROUTE OPTIMIZATION SYSTEM      ║
 ╠══════════════════════════════════════════╣
 ║ 10. Load Demo Data                       ║
 ...
